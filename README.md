@@ -10,4 +10,5 @@ Flask application for practice.
 
 ## Setup
 python -m venv venv
-pip install -r requirements.txtgit commit -m "initial project setup"
+pip install -r requirements.txt
+git commit -m "initial project setup"git commit -m "Update README"
